@@ -1,0 +1,26 @@
+:root {
+  --black: rgba(17, 17, 17, 1);
+  --bold-16-24-font-family: "Inter-Bold", Helvetica;
+  --bold-16-24-font-size: 16px;
+  --bold-16-24-font-style: normal;
+  --bold-16-24-font-weight: 700;
+  --bold-16-24-letter-spacing: 0px;
+  --bold-16-24-line-height: 24px;
+  --gray-02: rgba(135, 135, 135, 1);
+  --gray-04: rgba(209, 209, 209, 1);
+  --primary-color: rgba(41, 157, 145, 1);
+  --regular-16-24-font-family: "Inter-Regular", Helvetica;
+  --regular-16-24-font-size: 16px;
+  --regular-16-24-font-style: normal;
+  --regular-16-24-font-weight: 400;
+  --regular-16-24-letter-spacing: 0px;
+  --regular-16-24-line-height: 24px;
+  --secondary: rgba(82, 82, 86, 1);
+  --semibold-16-24-font-family: "Inter-SemiBold", Helvetica;
+  --semibold-16-24-font-size: 16px;
+  --semibold-16-24-font-style: normal;
+  --semibold-16-24-font-weight: 600;
+  --semibold-16-24-letter-spacing: 0px;
+  --semibold-16-24-line-height: 24px;
+  --white: rgba(255, 255, 255, 1);
+}

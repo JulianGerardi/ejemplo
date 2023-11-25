@@ -1,0 +1,27 @@
+.foto {
+  height: 29px;
+  position: relative;
+  width: 173px;
+}
+
+.foto .tanzir-rahman {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14.3px;
+  font-weight: 600;
+  left: 48px;
+  letter-spacing: 0;
+  line-height: 21.4px;
+  position: absolute;
+  top: 4px;
+  width: 125px;
+}
+
+.foto .image {
+  height: 29px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}

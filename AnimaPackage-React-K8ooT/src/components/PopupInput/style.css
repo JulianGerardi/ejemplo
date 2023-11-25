@@ -1,0 +1,46 @@
+.popup-input {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.popup-input .target-amounts {
+  color: var(--secondary);
+  font-family: var(--semibold-16-24-font-family);
+  font-size: var(--semibold-16-24-font-size);
+  font-style: var(--semibold-16-24-font-style);
+  font-weight: var(--semibold-16-24-font-weight);
+  letter-spacing: var(--semibold-16-24-letter-spacing);
+  line-height: var(--semibold-16-24-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.popup-input .element-wrapper {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: #9f9f9f33;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  padding: 16px 24px;
+  position: relative;
+}
+
+.popup-input .element {
+  color: var(--gray-02);
+  font-family: var(--regular-16-24-font-family);
+  font-size: var(--regular-16-24-font-size);
+  font-style: var(--regular-16-24-font-style);
+  font-weight: var(--regular-16-24-font-weight);
+  letter-spacing: var(--regular-16-24-letter-spacing);
+  line-height: var(--regular-16-24-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 312px;
+}

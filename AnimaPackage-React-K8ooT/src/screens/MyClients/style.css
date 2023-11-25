@@ -1,0 +1,1130 @@
+.my-clients {
+  background-color: #f9fafa;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.my-clients .overlap-wrapper {
+  background-color: #f9fafa;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.my-clients .overlap {
+  height: 1120px;
+  position: relative;
+  top: -31px;
+}
+
+.my-clients .dashboard-client {
+  height: 512px;
+  left: 431px;
+  position: absolute;
+  top: 103px;
+  width: 1293px;
+}
+
+.my-clients .group {
+  height: 33px;
+  left: 10px;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.my-clients .group-wrapper {
+  height: 33px;
+}
+
+.my-clients .div-wrapper {
+  height: 33px;
+  position: relative;
+  width: 182px;
+}
+
+.my-clients .div {
+  color: var(--black);
+  font-family: "Inter", Helvetica;
+  font-size: 26px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 180px;
+}
+
+.my-clients .group-2 {
+  height: 442px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 1293px;
+}
+
+.my-clients .overlap-group-wrapper {
+  height: 442px;
+}
+
+.my-clients .overlap-group {
+  height: 442px;
+  position: relative;
+  width: 1357px;
+}
+
+.my-clients .background {
+  background-color: #ffffff;
+  border-radius: 30px 30px 0px 0px;
+  height: 89px;
+  left: 0;
+  position: absolute;
+  top: 352px;
+  transform: rotate(-180deg);
+  width: 1293px;
+}
+
+.my-clients .group-3 {
+  height: 442px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1357px;
+}
+
+.my-clients .overlap-group-2 {
+  height: 265px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 1293px;
+}
+
+.my-clients .background-2 {
+  background-color: #ffffff;
+  border-radius: 1px;
+  height: 264px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 1293px;
+}
+
+.my-clients .vector {
+  height: 20px;
+  left: 42px;
+  position: absolute;
+  top: 31px;
+  width: 20px;
+}
+
+.my-clients .img {
+  height: 20px;
+  left: 42px;
+  position: absolute;
+  top: 120px;
+  width: 20px;
+}
+
+.my-clients .vector-2 {
+  height: 20px;
+  left: 42px;
+  position: absolute;
+  top: 208px;
+  width: 20px;
+}
+
+.my-clients .border-bot {
+  background-color: #f5f5f5;
+  border-radius: 1px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 85px;
+  width: 1293px;
+}
+
+.my-clients .border-bot-2 {
+  background-color: #f5f5f5;
+  border-radius: 1px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 174px;
+  width: 1293px;
+}
+
+.my-clients .border-bot-3 {
+  background-color: #f5f5f5;
+  border-radius: 1px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 264px;
+  width: 1293px;
+}
+
+.my-clients .border-bot-4 {
+  background-color: #f4f4f4;
+  border-radius: 30px;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1293px;
+}
+
+.my-clients .text-wrapper-2 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 675px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.my-clients .text-wrapper-3 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 675px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 205px;
+  white-space: nowrap;
+  width: 87px;
+}
+
+.my-clients .text-wrapper-4 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.my-clients .text-wrapper-5 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.my-clients .text-wrapper-6 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 195px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.my-clients .text-wrapper-7 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.my-clients .text-wrapper-8 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 131px;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.my-clients .text-wrapper-9 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 219px;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.my-clients .text-wrapper-10 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1115px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 33px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.my-clients .text-wrapper-11 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1115px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 122px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.my-clients .text-wrapper-12 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1115px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 210px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.my-clients .text-wrapper-13 {
+  color: #ffb700;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 943px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 34px;
+  white-space: nowrap;
+}
+
+.my-clients .ellipse {
+  background-color: #ffffff;
+  border: 4px solid;
+  border-color: #ffb700;
+  border-radius: 8px/7.88px;
+  height: 16px;
+  left: 918px;
+  position: absolute;
+  top: 35px;
+  width: 16px;
+}
+
+.my-clients .text-wrapper-14 {
+  color: #16e383;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 941px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 123px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.my-clients .ellipse-2 {
+  background-color: #ffffff;
+  border: 4px solid;
+  border-color: #16e383;
+  border-radius: 8px/7.88px;
+  height: 16px;
+  left: 918px;
+  position: absolute;
+  top: 124px;
+  width: 16px;
+}
+
+.my-clients .text-wrapper-15 {
+  color: #16e383;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 941px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 214px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.my-clients .ellipse-3 {
+  background-color: #ffffff;
+  border: 4px solid;
+  border-color: #16e383;
+  border-radius: 8px/7.88px;
+  height: 16px;
+  left: 918px;
+  position: absolute;
+  top: 215px;
+  width: 16px;
+}
+
+.my-clients .placeholder {
+  background-color: #f4f4f4;
+  border-radius: 48px;
+  height: 48px;
+  left: 93px;
+  position: absolute;
+  top: 16px;
+  width: 49px;
+}
+
+.my-clients .placeholder-2 {
+  background-color: #f4f4f4;
+  border-radius: 48px;
+  height: 48px;
+  left: 93px;
+  position: absolute;
+  top: 105px;
+  width: 49px;
+}
+
+.my-clients .placeholder-3 {
+  background-color: #f4f4f4;
+  border-radius: 48px;
+  height: 48px;
+  left: 93px;
+  position: absolute;
+  top: 193px;
+  width: 49px;
+}
+
+.my-clients .text-wrapper-16 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 17px;
+  white-space: nowrap;
+}
+
+.my-clients .text-wrapper-17 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 106px;
+  white-space: nowrap;
+}
+
+.my-clients .text-wrapper-18 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 194px;
+  white-space: nowrap;
+  width: 145px;
+}
+
+.my-clients .text-wrapper-19 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.my-clients .text-wrapper-20 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 130px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.my-clients .text-wrapper-21 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 219px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.my-clients .vector-3 {
+  height: 20px;
+  left: 42px;
+  position: absolute;
+  top: 382px;
+  width: 20px;
+}
+
+.my-clients .border-bot-5 {
+  background-color: #f5f5f5;
+  border-radius: 1px;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 441px;
+  width: 1293px;
+}
+
+.my-clients .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 30px 30px 0px 0px;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1293px;
+}
+
+.my-clients .vector-4 {
+  height: 20px;
+  left: 42px;
+  position: absolute;
+  top: 30px;
+  width: 20px;
+}
+
+.my-clients .text-wrapper-22 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 675px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  width: 165px;
+}
+
+.my-clients .text-wrapper-23 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  width: 103px;
+}
+
+.my-clients .text-wrapper-24 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 1115px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  width: 103px;
+}
+
+.my-clients .text-wrapper-25 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 918px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  width: 56px;
+}
+
+.my-clients .text-wrapper-26 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 94px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 27px;
+  width: 89px;
+}
+
+.my-clients .text-wrapper-27 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 675px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 383px;
+  white-space: nowrap;
+  width: 95px;
+}
+
+.my-clients .text-wrapper-28 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 371px;
+  white-space: nowrap;
+}
+
+.my-clients .text-wrapper-29 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 385px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 396px;
+  white-space: nowrap;
+  width: 195px;
+}
+
+.my-clients .text-wrapper-30 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 1115px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 379px;
+  white-space: nowrap;
+  width: 94px;
+}
+
+.my-clients .text-wrapper-31 {
+  color: #16e383;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 941px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 388px;
+  white-space: nowrap;
+  width: 41px;
+}
+
+.my-clients .ellipse-4 {
+  background-color: #ffffff;
+  border: 4px solid;
+  border-color: #16e383;
+  border-radius: 8px/7.88px;
+  height: 16px;
+  left: 918px;
+  position: absolute;
+  top: 389px;
+  width: 16px;
+}
+
+.my-clients .placeholder-4 {
+  background-color: #f4f4f4;
+  border-radius: 48px;
+  height: 48px;
+  left: 93px;
+  position: absolute;
+  top: 370px;
+  width: 49px;
+}
+
+.my-clients .text-wrapper-32 {
+  color: #313a4e;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 371px;
+  white-space: nowrap;
+}
+
+.my-clients .text-wrapper-33 {
+  color: #6b6f7b;
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 158px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 396px;
+  white-space: nowrap;
+  width: 155px;
+}
+
+.my-clients .fill {
+  height: 8px;
+  left: 15629px;
+  position: absolute;
+  top: 22870px;
+  width: 8px;
+}
+
+.my-clients .fondo {
+  background-color: #000000b2;
+  height: 1120px;
+  left: 234px;
+  position: absolute;
+  top: 0;
+  width: 1686px;
+}
+
+.my-clients .popup-input-2 {
+  background-color: var(--white);
+  border-radius: 16px;
+  height: 950px;
+  left: 673px;
+  position: absolute;
+  top: 115px;
+  width: 779px;
+}
+
+.my-clients .x-1 {
+  height: 32px !important;
+  left: 1776px !important;
+  position: absolute !important;
+  top: 83px !important;
+  width: 32px !important;
+}
+
+.my-clients .menu {
+  background-color: #ffffff;
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 247px;
+}
+
+.my-clients .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  height: 331px;
+  justify-content: center;
+  left: 47px;
+  position: absolute;
+  top: 171px;
+  width: 153px;
+}
+
+.my-clients .div-2 {
+  height: 22px;
+  margin-top: -2.5px;
+  position: relative;
+  width: 132px;
+}
+
+.my-clients .transaction {
+  height: 16px;
+  left: -1px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.my-clients .text-wrapper-34 {
+  -webkit-text-stroke: 1px #000000;
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 24px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 97px;
+}
+
+.my-clients .my-payments {
+  height: 25px;
+  position: relative;
+  width: 136px;
+}
+
+.my-clients .text-wrapper-35 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.my-clients .signing-a-document {
+  height: 17px;
+  left: -2px;
+  position: absolute;
+  top: 6px;
+  width: 17px;
+}
+
+.my-clients .initiate-money {
+  height: 20px;
+  left: -1px;
+  position: absolute;
+  top: 4px;
+  width: 17px;
+}
+
+.my-clients .archive {
+  height: 24px;
+  margin-right: -40px;
+  position: relative;
+  width: 193px;
+}
+
+.my-clients .text-wrapper-36 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 89px;
+}
+
+.my-clients .archive-list-of {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 14px;
+}
+
+.my-clients .cards {
+  height: 18.33px;
+  position: relative;
+  width: 133px;
+}
+
+.my-clients .text-wrapper-37 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: -0.32px;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.my-clients .magnetic-card {
+  height: 13px;
+  left: -1px;
+  position: absolute;
+  top: 3px;
+  width: 15px;
+}
+
+.my-clients .setting {
+  align-self: stretch;
+  height: 41.67px;
+  margin-bottom: -2.5px;
+  position: relative;
+  width: 100%;
+}
+
+.my-clients .text-wrapper-38 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -3px;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.my-clients .settings {
+  height: 26px;
+  left: -1px;
+  position: absolute;
+  top: -2px;
+  width: 16px;
+}
+
+.my-clients .foto-instance {
+  left: 30px !important;
+  position: absolute !important;
+  top: 977px !important;
+}
+
+.my-clients .logout-instance {
+  left: 33px !important;
+  position: absolute !important;
+  top: 1023px !important;
+}
+
+.my-clients .logout-3-instance {
+  height: 17.84px !important;
+  position: relative !important;
+  width: 17.84px !important;
+}
+
+.my-clients .logo-2 {
+  height: 41px !important;
+  left: 47px !important;
+  position: absolute !important;
+  top: 67px !important;
+  width: 153px !important;
+}
+
+.my-clients .button-big-instance {
+  background-color: #6b6f7b !important;
+  display: flex !important;
+  height: 41px !important;
+  left: 1003px !important;
+  padding: 12px 24px !important;
+  position: absolute !important;
+  top: 976px !important;
+  width: 107px !important;
+}
+
+.my-clients .design-component-instance-node {
+  color: var(--white) !important;
+  margin-bottom: -2.5px !important;
+  margin-right: -85px !important;
+  margin-top: -4.5px !important;
+}
+
+.my-clients .popup-input-instance {
+  display: flex !important;
+  height: 104px !important;
+  left: 862px !important;
+  position: absolute !important;
+  top: 354px !important;
+  width: 489px !important;
+}
+
+.my-clients .popup-input-3 {
+  border-color: var(--gray-04) !important;
+}
+
+.my-clients .popup-input-4 {
+  left: 862px !important;
+  position: absolute !important;
+  top: 472px !important;
+}
+
+.my-clients .popup-input-5 {
+  left: 862px !important;
+  position: absolute !important;
+  top: 587px !important;
+}
+
+.my-clients .popup-input-6 {
+  left: 862px !important;
+  position: absolute !important;
+  top: 705px !important;
+}
+
+.my-clients .popup-input-7 {
+  left: 862px !important;
+  position: absolute !important;
+  top: 823px !important;
+}
+
+.my-clients .client-information {
+  color: #68686b;
+  font-family: "Inter", Helvetica;
+  font-size: 22px;
+  font-weight: 400;
+  left: 862px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 261px;
+  width: 350px;
+}
+
+.my-clients .span {
+  font-weight: 600;
+}
+
+.my-clients .text-wrapper-39 {
+  font-size: 16px;
+}
+
+.my-clients .text-wrapper-40 {
+  color: #68686b;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 821px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 172px;
+  width: 83px;
+}
+
+.my-clients .text-wrapper-41 {
+  color: #68686b;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 1023px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 172px;
+  width: 83px;
+}
+
+.my-clients .text-wrapper-42 {
+  color: #68686b;
+  font-family: "Inter", Helvetica;
+  font-size: 15px;
+  font-weight: 600;
+  left: 1245px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 172px;
+  width: 83px;
+}
+
+.my-clients .text-wrapper-43 {
+  color: var(--white);
+  font-family: var(--bold-16-24-font-family);
+  font-size: var(--bold-16-24-font-size);
+  font-style: var(--bold-16-24-font-style);
+  font-weight: var(--bold-16-24-font-weight);
+  left: 983px;
+  letter-spacing: var(--bold-16-24-letter-spacing);
+  line-height: var(--bold-16-24-line-height);
+  position: absolute;
+  text-align: center;
+  top: 983px;
+  width: 144px;
+}
+
+.my-clients .rectangle {
+  background-color: #d9d9d9;
+  border-radius: 12px;
+  height: 8px;
+  left: 816px;
+  position: absolute;
+  top: 206px;
+  width: 481px;
+}
+
+.my-clients .rectangle-2 {
+  background-color: #ab63ff;
+  border-radius: 12px;
+  height: 8px;
+  left: 816px;
+  position: absolute;
+  top: 206px;
+  width: 143px;
+}

@@ -1,0 +1,23 @@
+.button-big {
+  align-items: center;
+  background-color: var(--primary-color);
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 4px;
+  padding: 12px 32px;
+  position: relative;
+}
+
+.button-big .add-accounts {
+  color: #ffffff;
+  font-family: var(--bold-16-24-font-family);
+  font-size: var(--bold-16-24-font-size);
+  font-style: var(--bold-16-24-font-style);
+  font-weight: var(--bold-16-24-font-weight);
+  letter-spacing: var(--bold-16-24-letter-spacing);
+  line-height: var(--bold-16-24-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 144px;
+}

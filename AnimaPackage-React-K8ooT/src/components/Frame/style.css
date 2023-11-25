@@ -1,0 +1,12 @@
+.frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 12px;
+  position: relative;
+}
+
+.frame .logout-2 {
+  height: 20px !important;
+  position: relative !important;
+  width: 20px !important;
+}

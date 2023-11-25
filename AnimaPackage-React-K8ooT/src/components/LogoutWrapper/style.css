@@ -1,0 +1,35 @@
+.logout-wrapper {
+  height: 21px;
+  position: relative;
+  width: 186px;
+}
+
+.logout-wrapper .icon {
+  display: flex !important;
+  gap: 10.7px !important;
+  height: 21px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  width: 21px !important;
+}
+
+.logout-wrapper .text-wrapper {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 14.3px;
+  font-weight: 600;
+  left: 47px;
+  letter-spacing: 0;
+  line-height: 21.4px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.logout-wrapper .logout-3 {
+  height: 17.84px !important;
+  position: relative !important;
+  width: 17.84px !important;
+}
